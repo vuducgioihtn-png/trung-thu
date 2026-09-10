@@ -1,0 +1,6 @@
+{
+  "name": "Hội Trại Thu & Văn Nghệ 2026 - Xã Hải Anh",
+  "description": "Ứng dụng thiết kế phối cảnh trại thu, dự trù kinh phí, quản lý danh sách vật tư chi tiết và bảng chấm điểm thi đua văn nghệ - cắm trại Trung thu xã Hải Anh năm 2026 theo chủ đề 'Lồng đèn thắp sáng ước mơ'.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
